@@ -1,0 +1,2 @@
+# Panoptes
+Our project is named Panoptes after the many-eyed giant in Greek mythology which is known for  having the saying “followed by the eyes of Argus”. The name Panoptes has been an inspiration for  us as Argus Panoptes is considered the eye that sees and notices everything in its surroundings.  Hence, our project Panoptes is the camera system that follows and identifies the “wrong” actions. 
