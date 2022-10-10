@@ -12,7 +12,7 @@
 ![Training an Validation Loss Curves](Results/Violence_Loss.png?raw=true)
 
 ## Violence Detection Model Confusion Matrix
-![Confusion Matrix](Results/Confusion Matrix.png?raw=true)
+![Confusion Matrix](Results/Confusion%20Matrix.png?raw=true)
 
 ## Violence Detection Model Classification Report
 ![Classification Report](Results/classif_report.png?raw=true)
