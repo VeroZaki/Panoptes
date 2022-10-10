@@ -12,7 +12,7 @@
 ![Facial Expression Model Training an Validation Loss Curves](Results/epoch_loss.svg?raw=true)
 
 ## Facial Expression Model Confusion Matrix
-![Facial Expression Model Confusion Matrix](/Results/Matrix.png?raw=true)
+![Facial Expression Model Confusion Matrix](Results/Matrix.png?raw=true)
 
 ## Facial Expression Model Classification Report
 ![Facial Expression Model Classification Report](Results/classif_report.png?raw=true)
