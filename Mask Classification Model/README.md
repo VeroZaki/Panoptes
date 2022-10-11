@@ -9,7 +9,7 @@
 ![Training an Validation Accuracies Curves](Results/Accuracy_curve_vgg16_drop_batch_256.jpg?raw=true)
 
 ## Facial Expression Model Training an Validation Loss Curves
-![Training an Validation Loss Curves](Results/Loss_curve_vgg16_drop_batch_256?raw=true)
+![Training an Validation Loss Curves](Results/Loss_curve_vgg16_drop_batch_256.jpg?raw=true)
 
 ## Facial Expression Model Confusion Matrix
 ![Confusion Matrix](Results/Confusion_Mattrix_Yellow_Labels.png?raw=true)
